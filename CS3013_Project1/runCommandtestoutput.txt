@@ -1,0 +1,28 @@
+bash-3.2$ ./runCommand ls                  
+Makefile    README.txt~  runCommand    runCommandtest.txt   shell    shell2    shell2.c~       shell2test.txt~       shelltest.text~  shelltest.txt~
+README.txt  file.txt     runCommand.c  runCommandtest.txt~  shell.c  shell2.c  shell2test.txt  shell2testoutput.txt  shelltest.txt    shelltestoutput.txt
+Elapsed wall-clock time in milliseconds is 2 ms
+Amount of CPU user time in milliseconds is 0 ms
+Amount of CPU system time in milliseconds is 0 ms
+Number of times the process was preempted involuntarily is 0
+Number of times the process gave up the CPU voluntarily is 5
+Number of page faults are 0
+Number of page faults that could be satisfied using unreclaimed pages are 258
+bash-3.2$ ./runCommand pwd
+/isihome/vkrathi/courses/CS3013/Project1
+Elapsed wall-clock time in milliseconds is 1 ms
+Amount of CPU user time in milliseconds is 0 ms
+Amount of CPU system time in milliseconds is 0 ms
+Number of times the process was preempted involuntarily is 1
+Number of times the process gave up the CPU voluntarily is 1
+Number of page faults are 0
+Number of page faults that could be satisfied using unreclaimed pages are 153
+bash-3.2$ ./runCommand ls /home/vkrathi
+Desktop  Hack-WPI_2016  My_Documents  courses  public_html
+Elapsed wall-clock time in milliseconds is 6 ms
+Amount of CPU user time in milliseconds is 0 ms
+Amount of CPU system time in milliseconds is 0 ms
+Number of times the process was preempted involuntarily is 0
+Number of times the process gave up the CPU voluntarily is 7
+Number of page faults are 0
+Number of page faults that could be satisfied using unreclaimed pages are 276

@@ -1,0 +1,42 @@
+bash-3.2$ ./shell < shelltest.txt
+Makefile  README.txt  README.txt~  file.txt  runCommand  runCommand.c  shell  shell.c  shell2  shell2.c  shell2.c~  shelltest.text~  shelltest.txt  shelltest.txt~
+==> Elapsed wall-clock time in milliseconds is 1 ms
+Amount of CPU user time in milliseconds is 0 ms
+Amount of CPU system time in milliseconds is 0 ms
+Number of times the process was preempted involuntarily is 0
+Number of times the process gave up the CPU voluntarily is 3
+Number of page faults are 0
+Number of page faults that could be satisfied using unreclaimed pages are 259
+/isihome/vkrathi/courses/CS3013/Project1
+==> Elapsed wall-clock time in milliseconds is 2 ms
+Amount of CPU user time in milliseconds is 0 ms
+Amount of CPU system time in milliseconds is 0 ms
+Number of times the process was preempted involuntarily is 2
+Number of times the process gave up the CPU voluntarily is 1
+Number of page faults are 0
+Number of page faults that could be satisfied using unreclaimed pages are 152
+Desktop  Hack-WPI_2016  My_Documents  courses  public_html
+==> Elapsed wall-clock time in milliseconds is 13 ms
+Amount of CPU user time in milliseconds is 4 ms
+Amount of CPU system time in milliseconds is 4 ms
+Number of times the process was preempted involuntarily is 8
+Number of times the process gave up the CPU voluntarily is 7
+Number of page faults are 0
+Number of page faults that could be satisfied using unreclaimed pages are 276
+/isihome/vkrathi
+==> ==> Elapsed wall-clock time in milliseconds is 0 ms
+Amount of CPU user time in milliseconds is 0 ms
+Amount of CPU system time in milliseconds is 0 ms
+Number of times the process was preempted involuntarily is 2
+Number of times the process gave up the CPU voluntarily is 1
+Number of page faults are 0
+Number of page faults that could be satisfied using unreclaimed pages are 153
+"Testing phase"
+==> Elapsed wall-clock time in milliseconds is 2 ms
+Amount of CPU user time in milliseconds is 0 ms
+Amount of CPU system time in milliseconds is 0 ms
+Number of times the process was preempted involuntarily is 2
+Number of times the process gave up the CPU voluntarily is 1
+Number of page faults are 0
+Number of page faults that could be satisfied using unreclaimed pages are 146
+==> It was great having you! :) 

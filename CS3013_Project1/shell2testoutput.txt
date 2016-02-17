@@ -1,0 +1,44 @@
+bash-3.2$ ./shell2 < shell2test.txt
+Makefile    README.txt~  runCommand    shell    shell2    shell2.c~       shell2test.txt~  shelltest.txt   shelltestoutput.txt
+README.txt  file.txt     runCommand.c  shell.c  shell2.c  shell2test.txt  shelltest.text~  shelltest.txt~
+==> Elapsed wall-clock time in milliseconds is 4 ms
+Amount of CPU user time in milliseconds is 0 ms
+Amount of CPU system time in milliseconds is 0 ms
+Number of times the process was preempted involuntarily is 4
+Number of times the process gave up the CPU voluntarily is 4
+Number of page faults are 0
+Number of page faults that could be satisfied using unreclaimed pages are 262
+/isihome/vkrathi/courses/CS3013/Project1
+==> Elapsed wall-clock time in milliseconds is 1 ms
+Amount of CPU user time in milliseconds is 0 ms
+Amount of CPU system time in milliseconds is 4 ms
+Number of times the process was preempted involuntarily is 2
+Number of times the process gave up the CPU voluntarily is 1
+Number of page faults are 0
+Number of page faults that could be satisfied using unreclaimed pages are 156
+/isihome/vkrathi/courses/CS3013/Project1
+Makefile    README.txt~  runCommand    shell    shell2    shell2.c~       shell2test.txt~  shelltest.txt   shelltestoutput.txt
+README.txt  file.txt     runCommand.c  shell.c  shell2.c  shell2test.txt  shelltest.text~  shelltest.txt~
+==> ==> ==> Elapsed wall-clock time in milliseconds is 10004 ms
+Amount of CPU user time in milliseconds is 0 ms
+Amount of CPU system time in milliseconds is 0 ms
+Number of times the process was preempted involuntarily is 1
+Number of times the process gave up the CPU voluntarily is 2
+Number of page faults are 0
+Number of page faults that could be satisfied using unreclaimed pages are 158
+==> Elapsed wall-clock time in milliseconds is 10006 ms
+Amount of CPU user time in milliseconds is 4 ms
+Amount of CPU system time in milliseconds is 0 ms
+Number of times the process was preempted involuntarily is 2
+Number of times the process gave up the CPU voluntarily is 2
+Number of page faults are 0
+Number of page faults that could be satisfied using unreclaimed pages are 263
+Elapsed wall-clock time in milliseconds is 10004 ms
+Amount of CPU user time in milliseconds is 0 ms
+Amount of CPU system time in milliseconds is 4 ms
+Number of times the process was preempted involuntarily is 2
+Number of times the process gave up the CPU voluntarily is 1
+Number of page faults are 0
+Number of page faults that could be satisfied using unreclaimed pages are 155
+==> ==> There are still background processes running, please wait! 
+It was great having you! :) 

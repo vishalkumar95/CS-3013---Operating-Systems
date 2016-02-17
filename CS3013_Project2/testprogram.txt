@@ -1,0 +1,12 @@
+BackgroundProcess: sleep 100 &
+
+Bash screenshot: 
+
+vishalrathi@vishalrathi-VirtualBox:~/Documents/project0_vkrathi_CS3013/CS3013_Project2_vkrathi_FinalFiles/Executables$ sleep 100 &
+[1] 10674
+vishalrathi@vishalrathi-VirtualBox:~/Documents/project0_vkrathi_CS3013/CS3013_Project2_vkrathi_FinalFiles/Executables$ ./getloginuid 10674
+The process is owned by : 65535 
+The return values of the system calls are:
+	cs3013_syscall3: 0
+
+

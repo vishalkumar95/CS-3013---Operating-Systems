@@ -1,0 +1,3 @@
+./runCommand ls
+./runCommand pwd
+./runCommand ls /home/vkrathi

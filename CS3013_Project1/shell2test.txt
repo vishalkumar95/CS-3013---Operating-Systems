@@ -1,0 +1,8 @@
+ls 
+pwd
+ls &
+pwd &
+sleep 10
+sleep 20 &
+cd /home/vkrathi
+exit

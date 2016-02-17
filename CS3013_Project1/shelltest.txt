@@ -1,0 +1,7 @@
+ls
+pwd
+ls /home/vkrathi
+cd /home/vkrathi
+pwd
+echo "Testing phase"
+exit
