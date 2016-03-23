@@ -1,0 +1,2182 @@
+Page created 0 
+Getting the value at the address 0 
+The value in RAM 4 
+Changing the value of the page in the RAM 0 
+The value in the RAM has been changed to 0 
+Page created 1 
+Getting the value at the address 1 
+The value in RAM 4 
+Changing the value of the page in the RAM 1 
+The value in the RAM has been changed to 3 
+Page created 2 
+Getting the value at the address 2 
+The value in RAM 4 
+Changing the value of the page in the RAM 2 
+The value in the RAM has been changed to 6 
+Page created 3 
+Getting the value at the address 3 
+The value in RAM 4 
+Changing the value of the page in the RAM 3 
+The value in the RAM has been changed to 9 
+Page created 4 
+Getting the value at the address 4 
+The value in RAM 4 
+Changing the value of the page in the RAM 4 
+The value in the RAM has been changed to 12 
+Page created 5 
+Getting the value at the address 5 
+The value in RAM 4 
+Changing the value of the page in the RAM 5 
+The value in the RAM has been changed to 15 
+Page created 6 
+Getting the value at the address 6 
+The value in RAM 4 
+Changing the value of the page in the RAM 6 
+The value in the RAM has been changed to 18 
+Page created 7 
+Getting the value at the address 7 
+The value in RAM 4 
+Changing the value of the page in the RAM 7 
+The value in the RAM has been changed to 21 
+Page created 8 
+Getting the value at the address 8 
+The value in RAM 4 
+Changing the value of the page in the RAM 8 
+The value in the RAM has been changed to 24 
+Page created 9 
+Getting the value at the address 9 
+The value in RAM 4 
+Changing the value of the page in the RAM 9 
+The value in the RAM has been changed to 27 
+Page created 10 
+Getting the value at the address 10 
+The value in RAM 4 
+Changing the value of the page in the RAM 10 
+The value in the RAM has been changed to 30 
+Page created 11 
+Getting the value at the address 11 
+The value in RAM 4 
+Changing the value of the page in the RAM 11 
+The value in the RAM has been changed to 33 
+Page created 12 
+Getting the value at the address 12 
+The value in RAM 4 
+Changing the value of the page in the RAM 12 
+The value in the RAM has been changed to 36 
+Page created 13 
+Getting the value at the address 13 
+The value in RAM 4 
+Changing the value of the page in the RAM 13 
+The value in the RAM has been changed to 39 
+Page created 14 
+Getting the value at the address 14 
+The value in RAM 4 
+Changing the value of the page in the RAM 14 
+The value in the RAM has been changed to 42 
+Page created 15 
+Getting the value at the address 15 
+The value in RAM 4 
+Changing the value of the page in the RAM 15 
+The value in the RAM has been changed to 45 
+Page created 16 
+Getting the value at the address 16 
+The value in RAM 4 
+Changing the value of the page in the RAM 16 
+The value in the RAM has been changed to 48 
+Page created 17 
+Getting the value at the address 17 
+The value in RAM 4 
+Changing the value of the page in the RAM 17 
+The value in the RAM has been changed to 51 
+Page created 18 
+Getting the value at the address 18 
+The value in RAM 4 
+Changing the value of the page in the RAM 18 
+The value in the RAM has been changed to 54 
+Page created 19 
+Getting the value at the address 19 
+The value in RAM 4 
+Changing the value of the page in the RAM 19 
+The value in the RAM has been changed to 57 
+Page created 20 
+Getting the value at the address 20 
+The value in RAM 4 
+Changing the value of the page in the RAM 20 
+The value in the RAM has been changed to 60 
+Page created 21 
+Getting the value at the address 21 
+The value in RAM 4 
+Changing the value of the page in the RAM 21 
+The value in the RAM has been changed to 63 
+Page created 22 
+Getting the value at the address 22 
+The value in RAM 4 
+Changing the value of the page in the RAM 22 
+The value in the RAM has been changed to 66 
+Page created 23 
+Getting the value at the address 23 
+The value in RAM 4 
+Changing the value of the page in the RAM 23 
+The value in the RAM has been changed to 69 
+Page created 24 
+Getting the value at the address 24 
+The value in RAM 4 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 72 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 25 
+Getting the value at the address 25 
+The value in RAM 4 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 75 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 26 
+Getting the value at the address 26 
+The value in RAM 4 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 78 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 27 
+Getting the value at the address 27 
+The value in RAM 4 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 81 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 28 
+Getting the value at the address 28 
+The value in RAM 4 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 84 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 29 
+Getting the value at the address 29 
+The value in RAM 4 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 87 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 30 
+Getting the value at the address 30 
+The value in RAM 4 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 90 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 31 
+Getting the value at the address 31 
+The value in RAM 4 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 93 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 32 
+Getting the value at the address 32 
+The value in RAM 4 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 96 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 33 
+Getting the value at the address 33 
+The value in RAM 4 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 99 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 34 
+Getting the value at the address 34 
+The value in RAM 4 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 102 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 35 
+Getting the value at the address 35 
+The value in RAM 4 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 105 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 36 
+Getting the value at the address 36 
+The value in RAM 4 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 108 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 37 
+Getting the value at the address 37 
+The value in RAM 4 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 111 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 38 
+Getting the value at the address 38 
+The value in RAM 4 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 114 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 39 
+Getting the value at the address 39 
+The value in RAM 4 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 117 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 40 
+Getting the value at the address 40 
+The value in RAM 4 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 120 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 41 
+Getting the value at the address 41 
+The value in RAM 4 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 123 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 42 
+Getting the value at the address 42 
+The value in RAM 4 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 126 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 43 
+Getting the value at the address 43 
+The value in RAM 4 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 129 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 44 
+Getting the value at the address 44 
+The value in RAM 4 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 132 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 45 
+Getting the value at the address 45 
+The value in RAM 4 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 135 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 46 
+Getting the value at the address 46 
+The value in RAM 4 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 138 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 47 
+Getting the value at the address 47 
+The value in RAM 4 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 141 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 48 
+Getting the value at the address 48 
+The value in RAM 4 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 144 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 49 
+Getting the value at the address 49 
+The value in RAM 4 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 147 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 50 
+Getting the value at the address 50 
+The value in RAM 4 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 150 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 51 
+Getting the value at the address 51 
+The value in RAM 4 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 153 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 52 
+Getting the value at the address 52 
+The value in RAM 4 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 156 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 53 
+Getting the value at the address 53 
+The value in RAM 4 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 159 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 54 
+Getting the value at the address 54 
+The value in RAM 4 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 162 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 55 
+Getting the value at the address 55 
+The value in RAM 4 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 165 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 56 
+Getting the value at the address 56 
+The value in RAM 4 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 168 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 57 
+Getting the value at the address 57 
+The value in RAM 4 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 171 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 58 
+Getting the value at the address 58 
+The value in RAM 4 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 174 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 59 
+Getting the value at the address 59 
+The value in RAM 4 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 177 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 60 
+Getting the value at the address 60 
+The value in RAM 4 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 180 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 61 
+Getting the value at the address 61 
+The value in RAM 4 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 183 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 62 
+Getting the value at the address 62 
+The value in RAM 4 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 186 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 63 
+Getting the value at the address 63 
+The value in RAM 4 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 189 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 64 
+Getting the value at the address 64 
+The value in RAM 4 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 192 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 65 
+Getting the value at the address 65 
+The value in RAM 4 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 195 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 66 
+Getting the value at the address 66 
+The value in RAM 4 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 198 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 67 
+Getting the value at the address 67 
+The value in RAM 4 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 201 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 68 
+Getting the value at the address 68 
+The value in RAM 4 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 204 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 69 
+Getting the value at the address 69 
+The value in RAM 4 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 207 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 70 
+Getting the value at the address 70 
+The value in RAM 4 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 210 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 71 
+Getting the value at the address 71 
+The value in RAM 4 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 213 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 72 
+Getting the value at the address 72 
+The value in RAM 4 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 216 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 73 
+Getting the value at the address 73 
+The value in RAM 4 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 219 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 74 
+Getting the value at the address 74 
+The value in RAM 4 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 222 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 75 
+Getting the value at the address 75 
+The value in RAM 4 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 225 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 76 
+Getting the value at the address 76 
+The value in RAM 4 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 228 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 77 
+Getting the value at the address 77 
+The value in RAM 4 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 231 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 78 
+Getting the value at the address 78 
+The value in RAM 4 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 234 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 79 
+Getting the value at the address 79 
+The value in RAM 4 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 237 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 80 
+Getting the value at the address 80 
+The value in RAM 4 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 240 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 81 
+Getting the value at the address 81 
+The value in RAM 4 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 243 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 82 
+Getting the value at the address 82 
+The value in RAM 4 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 246 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 83 
+Getting the value at the address 83 
+The value in RAM 4 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 249 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 84 
+Getting the value at the address 84 
+The value in RAM 4 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 252 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 85 
+Getting the value at the address 85 
+The value in RAM 4 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 255 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 86 
+Getting the value at the address 86 
+The value in RAM 4 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 258 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 87 
+Getting the value at the address 87 
+The value in RAM 4 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 261 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 88 
+Getting the value at the address 88 
+The value in RAM 4 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 264 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 89 
+Getting the value at the address 89 
+The value in RAM 4 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 267 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 90 
+Getting the value at the address 90 
+The value in RAM 4 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 270 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 91 
+Getting the value at the address 91 
+The value in RAM 4 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 273 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 92 
+Getting the value at the address 92 
+The value in RAM 4 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 276 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 93 
+Getting the value at the address 93 
+The value in RAM 4 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 279 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 94 
+Getting the value at the address 94 
+The value in RAM 4 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 282 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 95 
+Getting the value at the address 95 
+The value in RAM 4 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 285 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 96 
+Getting the value at the address 96 
+The value in RAM 4 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 288 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 97 
+Getting the value at the address 97 
+The value in RAM 4 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 291 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 98 
+Getting the value at the address 98 
+The value in RAM 4 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 294 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 99 
+Getting the value at the address 99 
+The value in RAM 4 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 297 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 100 
+Getting the value at the address 100 
+The value in RAM 4 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 300 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 101 
+Getting the value at the address 101 
+The value in RAM 4 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 303 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 102 
+Getting the value at the address 102 
+The value in RAM 4 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 306 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 103 
+Getting the value at the address 103 
+The value in RAM 4 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 309 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 104 
+Getting the value at the address 104 
+The value in RAM 4 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 312 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 105 
+Getting the value at the address 105 
+The value in RAM 4 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 315 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 106 
+Getting the value at the address 106 
+The value in RAM 4 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 318 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 107 
+Getting the value at the address 107 
+The value in RAM 4 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 321 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 108 
+Getting the value at the address 108 
+The value in RAM 4 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 324 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 109 
+Getting the value at the address 109 
+The value in RAM 4 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 327 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 110 
+Getting the value at the address 110 
+The value in RAM 4 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 330 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 111 
+Getting the value at the address 111 
+The value in RAM 4 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 333 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 112 
+Getting the value at the address 112 
+The value in RAM 4 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 336 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 113 
+Getting the value at the address 113 
+The value in RAM 4 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 339 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 114 
+Getting the value at the address 114 
+The value in RAM 4 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 342 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 115 
+Getting the value at the address 115 
+The value in RAM 4 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 345 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 116 
+Getting the value at the address 116 
+The value in RAM 4 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 348 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 117 
+Getting the value at the address 117 
+The value in RAM 4 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 351 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 118 
+Getting the value at the address 118 
+The value in RAM 4 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 354 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 119 
+Getting the value at the address 119 
+The value in RAM 4 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 357 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 120 
+Getting the value at the address 120 
+The value in RAM 4 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 360 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 121 
+Getting the value at the address 121 
+The value in RAM 4 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 363 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 122 
+Getting the value at the address 122 
+The value in RAM 4 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 366 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 123 
+Getting the value at the address 123 
+The value in RAM 4 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 369 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 124 
+Getting the value at the address 124 
+The value in RAM 4 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 372 
+The chosen page based on LIFO algorithm is 24 
+The chosen page based on LIFO algorithm is 99 
+The page is in HD, swap the page from SSD. The randomly chosen page is 99 
+Page created 125 
+Getting the value at the address 125 
+The value in RAM 4 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 375 
+The chosen page based on LIFO algorithm is 24 
+The chosen page based on LIFO algorithm is 99 
+The page is in HD, swap the page from SSD. The randomly chosen page is 99 
+Page created 126 
+Getting the value at the address 126 
+The value in RAM 4 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 378 
+The chosen page based on LIFO algorithm is 24 
+The chosen page based on LIFO algorithm is 99 
+The page is in HD, swap the page from SSD. The randomly chosen page is 99 
+Page created 127 
+Getting the value at the address 127 
+The value in RAM 4 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 381 
+The chosen page based on LIFO algorithm is 24 
+The chosen page based on LIFO algorithm is 99 
+The page is in HD, swap the page from SSD. The randomly chosen page is 99 
+Page created 128 
+Getting the value at the address 128 
+The value in RAM 4 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 384 
+The chosen page based on LIFO algorithm is 24 
+The chosen page based on LIFO algorithm is 99 
+The page is in HD, swap the page from SSD. The randomly chosen page is 99 
+Page created 129 
+Getting the value at the address 129 
+The value in RAM 4 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 387 
+
+
+
+ memoryMaxer() took 26856
+Page created 0 
+The page you are trying to access doesn't exist 
+Changing the value of the page in the RAM 0 
+The value in the RAM has been changed to 0 
+Page created 1 
+The page you are trying to access doesn't exist 
+Changing the value of the page in the RAM 1 
+The value in the RAM has been changed to 3 
+Page created 2 
+The page you are trying to access doesn't exist 
+Changing the value of the page in the RAM 2 
+The value in the RAM has been changed to 6 
+Page created 3 
+The page you are trying to access doesn't exist 
+Changing the value of the page in the RAM 3 
+The value in the RAM has been changed to 9 
+Page created 4 
+The page you are trying to access doesn't exist 
+Changing the value of the page in the RAM 4 
+The value in the RAM has been changed to 12 
+Page created 5 
+The page you are trying to access doesn't exist 
+Changing the value of the page in the RAM 5 
+The value in the RAM has been changed to 15 
+Page created 6 
+The page you are trying to access doesn't exist 
+Changing the value of the page in the RAM 6 
+The value in the RAM has been changed to 18 
+Page created 7 
+The page you are trying to access doesn't exist 
+Changing the value of the page in the RAM 7 
+The value in the RAM has been changed to 21 
+Page created 8 
+The page you are trying to access doesn't exist 
+Changing the value of the page in the RAM 8 
+The value in the RAM has been changed to 24 
+Page created 9 
+The page you are trying to access doesn't exist 
+Changing the value of the page in the RAM 9 
+The value in the RAM has been changed to 27 
+Page created 10 
+The page you are trying to access doesn't exist 
+Changing the value of the page in the RAM 10 
+The value in the RAM has been changed to 30 
+Page created 11 
+The page you are trying to access doesn't exist 
+Changing the value of the page in the RAM 11 
+The value in the RAM has been changed to 33 
+Page created 12 
+The page you are trying to access doesn't exist 
+Changing the value of the page in the RAM 12 
+The value in the RAM has been changed to 36 
+Page created 13 
+The page you are trying to access doesn't exist 
+Changing the value of the page in the RAM 13 
+The value in the RAM has been changed to 39 
+Page created 14 
+The page you are trying to access doesn't exist 
+Changing the value of the page in the RAM 14 
+The value in the RAM has been changed to 42 
+Page created 15 
+The page you are trying to access doesn't exist 
+Changing the value of the page in the RAM 15 
+The value in the RAM has been changed to 45 
+Page created 16 
+The page you are trying to access doesn't exist 
+Changing the value of the page in the RAM 16 
+The value in the RAM has been changed to 48 
+Page created 17 
+The page you are trying to access doesn't exist 
+Changing the value of the page in the RAM 17 
+The value in the RAM has been changed to 51 
+Page created 18 
+The page you are trying to access doesn't exist 
+Changing the value of the page in the RAM 18 
+The value in the RAM has been changed to 54 
+Page created 19 
+The page you are trying to access doesn't exist 
+Changing the value of the page in the RAM 19 
+The value in the RAM has been changed to 57 
+Page created 20 
+The page you are trying to access doesn't exist 
+Changing the value of the page in the RAM 20 
+The value in the RAM has been changed to 60 
+Page created 21 
+The page you are trying to access doesn't exist 
+Changing the value of the page in the RAM 21 
+The value in the RAM has been changed to 63 
+Page created 22 
+The page you are trying to access doesn't exist 
+Changing the value of the page in the RAM 22 
+The value in the RAM has been changed to 66 
+Page created 23 
+The page you are trying to access doesn't exist 
+Changing the value of the page in the RAM 23 
+The value in the RAM has been changed to 69 
+Page created 24 
+The page you are trying to access doesn't exist 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 72 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 25 
+The page you are trying to access doesn't exist 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 75 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 26 
+The page you are trying to access doesn't exist 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 78 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 27 
+The page you are trying to access doesn't exist 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 81 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 28 
+The page you are trying to access doesn't exist 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 84 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 29 
+The page you are trying to access doesn't exist 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 87 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 30 
+The page you are trying to access doesn't exist 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 90 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 31 
+The page you are trying to access doesn't exist 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 93 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 32 
+The page you are trying to access doesn't exist 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 96 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 33 
+The page you are trying to access doesn't exist 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 99 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 34 
+The page you are trying to access doesn't exist 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 102 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 35 
+The page you are trying to access doesn't exist 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 105 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 36 
+The page you are trying to access doesn't exist 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 108 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 37 
+The page you are trying to access doesn't exist 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 111 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 38 
+The page you are trying to access doesn't exist 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 114 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 39 
+The page you are trying to access doesn't exist 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 117 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 40 
+The page you are trying to access doesn't exist 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 120 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 41 
+The page you are trying to access doesn't exist 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 123 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 42 
+The page you are trying to access doesn't exist 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 126 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 43 
+The page you are trying to access doesn't exist 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 129 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 44 
+The page you are trying to access doesn't exist 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 132 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 45 
+The page you are trying to access doesn't exist 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 135 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 46 
+The page you are trying to access doesn't exist 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 138 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 47 
+The page you are trying to access doesn't exist 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 141 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 48 
+The page you are trying to access doesn't exist 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 144 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 49 
+The page you are trying to access doesn't exist 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 147 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 50 
+The page you are trying to access doesn't exist 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 150 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 51 
+The page you are trying to access doesn't exist 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 153 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 52 
+The page you are trying to access doesn't exist 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 156 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 53 
+The page you are trying to access doesn't exist 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 159 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 54 
+The page you are trying to access doesn't exist 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 162 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 55 
+The page you are trying to access doesn't exist 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 165 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 56 
+The page you are trying to access doesn't exist 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 168 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 57 
+The page you are trying to access doesn't exist 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 171 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 58 
+The page you are trying to access doesn't exist 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 174 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 59 
+Getting the value at the address 59 
+The value in RAM 4 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 177 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 60 
+Getting the value at the address 58 
+The value in SSD 174 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 180 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 61 
+Getting the value at the address 57 
+The value in SSD 171 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 183 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 62 
+Getting the value at the address 56 
+The value in SSD 168 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 186 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 63 
+Getting the value at the address 55 
+The value in SSD 165 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 189 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 64 
+Getting the value at the address 54 
+The value in SSD 162 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 192 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 65 
+Getting the value at the address 53 
+The value in SSD 159 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 195 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 66 
+Getting the value at the address 52 
+The value in SSD 156 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 198 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 67 
+Getting the value at the address 51 
+The value in SSD 153 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 201 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 68 
+Getting the value at the address 50 
+The value in SSD 150 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 204 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 69 
+Getting the value at the address 49 
+The value in SSD 147 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 207 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 70 
+Getting the value at the address 48 
+The value in SSD 144 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 210 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 71 
+Getting the value at the address 47 
+The value in SSD 141 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 213 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 72 
+Getting the value at the address 46 
+The value in SSD 138 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 216 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 73 
+Getting the value at the address 45 
+The value in SSD 135 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 219 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 74 
+Getting the value at the address 44 
+The value in SSD 132 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 222 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 75 
+Getting the value at the address 43 
+The value in SSD 129 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 225 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 76 
+Getting the value at the address 42 
+The value in SSD 126 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 228 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 77 
+Getting the value at the address 41 
+The value in SSD 123 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 231 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 78 
+Getting the value at the address 40 
+The value in SSD 120 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 234 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 79 
+Getting the value at the address 39 
+The value in SSD 117 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 237 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 80 
+Getting the value at the address 38 
+The value in SSD 114 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 240 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 81 
+Getting the value at the address 37 
+The value in SSD 111 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 243 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 82 
+Getting the value at the address 36 
+The value in SSD 108 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 246 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 83 
+Getting the value at the address 35 
+The value in SSD 105 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 249 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 84 
+Getting the value at the address 34 
+The value in SSD 102 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 252 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 85 
+Getting the value at the address 33 
+The value in SSD 99 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 255 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 86 
+Getting the value at the address 32 
+The value in SSD 96 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 258 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 87 
+Getting the value at the address 31 
+The value in SSD 93 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 261 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 88 
+Getting the value at the address 30 
+The value in SSD 90 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 264 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 89 
+Getting the value at the address 29 
+The value in SSD 87 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 267 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 90 
+Getting the value at the address 28 
+The value in SSD 84 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 270 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 91 
+Getting the value at the address 27 
+The value in SSD 81 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 273 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 92 
+Getting the value at the address 26 
+The value in SSD 78 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 276 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 93 
+Getting the value at the address 25 
+The value in SSD 75 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 279 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 94 
+Getting the value at the address 24 
+The value in SSD 72 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 282 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 95 
+Getting the value at the address 23 
+The value in RAM 69 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 285 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 96 
+Getting the value at the address 22 
+The value in RAM 66 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 288 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 97 
+Getting the value at the address 21 
+The value in RAM 63 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 291 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 98 
+Getting the value at the address 20 
+The value in RAM 60 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 294 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 99 
+Getting the value at the address 19 
+The value in RAM 57 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 297 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 100 
+Getting the value at the address 18 
+The value in RAM 54 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 300 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 101 
+Getting the value at the address 17 
+The value in RAM 51 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 303 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 102 
+Getting the value at the address 16 
+The value in RAM 48 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 306 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 103 
+Getting the value at the address 15 
+The value in RAM 45 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 309 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 104 
+Getting the value at the address 14 
+The value in RAM 42 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 312 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 105 
+Getting the value at the address 13 
+The value in RAM 39 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 315 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 106 
+Getting the value at the address 12 
+The value in RAM 36 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 318 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 107 
+Getting the value at the address 11 
+The value in RAM 33 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 321 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 108 
+Getting the value at the address 10 
+The value in RAM 30 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 324 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 109 
+Getting the value at the address 9 
+The value in RAM 27 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 327 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 110 
+Getting the value at the address 8 
+The value in RAM 24 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 330 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 111 
+Getting the value at the address 7 
+The value in RAM 21 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 333 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 112 
+Getting the value at the address 6 
+The value in RAM 18 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 336 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 113 
+Getting the value at the address 5 
+The value in RAM 15 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 339 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 114 
+Getting the value at the address 4 
+The value in RAM 12 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 342 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 115 
+Getting the value at the address 3 
+The value in RAM 9 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 345 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 116 
+Getting the value at the address 2 
+The value in RAM 6 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 348 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 117 
+Getting the value at the address 1 
+The value in RAM 3 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 351 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 118 
+Getting the value at the address 0 
+The value in RAM 0 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 354 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 119 
+The page you are trying to access doesn't exist 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 357 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 120 
+The page you are trying to access doesn't exist 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 360 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 121 
+The page : -3 you are trying to access doesn't exist 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 363 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 122 
+The page : -4 you are trying to access doesn't exist 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 366 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 123 
+The page : -5 you are trying to access doesn't exist 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 369 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 124 
+The page : -6 you are trying to access doesn't exist 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 372 
+The chosen page based on LIFO algorithm is 24 
+The chosen page based on LIFO algorithm is 99 
+The page is in HD, swap the page from SSD. The randomly chosen page is 99 
+Page created 125 
+The page : -7 you are trying to access doesn't exist 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 375 
+The chosen page based on LIFO algorithm is 24 
+The chosen page based on LIFO algorithm is 99 
+The page is in HD, swap the page from SSD. The randomly chosen page is 99 
+Page created 126 
+The page : -8 you are trying to access doesn't exist 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 378 
+The chosen page based on LIFO algorithm is 24 
+The chosen page based on LIFO algorithm is 99 
+The page is in HD, swap the page from SSD. The randomly chosen page is 99 
+Page created 127 
+The page : -9 you are trying to access doesn't exist 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 381 
+The chosen page based on LIFO algorithm is 24 
+The chosen page based on LIFO algorithm is 99 
+The page is in HD, swap the page from SSD. The randomly chosen page is 99 
+Page created 128 
+The page : -10 you are trying to access doesn't exist 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 384 
+The chosen page based on LIFO algorithm is 24 
+The chosen page based on LIFO algorithm is 99 
+The page is in HD, swap the page from SSD. The randomly chosen page is 99 
+Page created 129 
+The page : -11 you are trying to access doesn't exist 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 387 
+
+
+
+ testmethod() took 26878
+Page created 0 
+Page created 1 
+Page created 2 
+Page created 3 
+Page created 4 
+Page created 5 
+Page created 6 
+Page created 7 
+Page created 8 
+Page created 9 
+Page created 10 
+Page created 11 
+Page created 12 
+Page created 13 
+Page created 14 
+Page created 15 
+Page created 16 
+Page created 17 
+Page created 18 
+Page created 19 
+Page created 20 
+Page created 21 
+Page created 22 
+Page created 23 
+Page created 24 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 25 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 26 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 27 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 28 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 29 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 30 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 31 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 32 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 33 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 34 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 35 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 36 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 37 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 38 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 39 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 40 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 41 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 42 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 43 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 44 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 45 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 46 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 47 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 48 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 49 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 50 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 51 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 52 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 53 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 54 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 55 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 56 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 57 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 58 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 59 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 60 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 61 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 62 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 63 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 64 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 65 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 66 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 67 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 68 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 69 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 70 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 71 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 72 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 73 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 74 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 75 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 76 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 77 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 78 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 79 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 80 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 81 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 82 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 83 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 84 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 85 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 86 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 87 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 88 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 89 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 90 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 91 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 92 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 93 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 94 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 95 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 96 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 97 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 98 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 99 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 100 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 101 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 102 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 103 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 104 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 105 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 106 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 107 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 108 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 109 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 110 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 111 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 112 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 113 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 114 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 115 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 116 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 117 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 118 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 119 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 120 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 121 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 122 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 123 
+The chosen page based on LIFO algorithm is 24 
+The page is in SSD, swap the page from RAM. The randomly chosen page is 24 
+Page created 124 
+The chosen page based on LIFO algorithm is 24 
+The chosen page based on LIFO algorithm is 99 
+The page is in HD, swap the page from SSD. The randomly chosen page is 99 
+Page created 125 
+The chosen page based on LIFO algorithm is 24 
+The chosen page based on LIFO algorithm is 99 
+The page is in HD, swap the page from SSD. The randomly chosen page is 99 
+Page created 126 
+The chosen page based on LIFO algorithm is 24 
+The chosen page based on LIFO algorithm is 99 
+The page is in HD, swap the page from SSD. The randomly chosen page is 99 
+Page created 127 
+The chosen page based on LIFO algorithm is 24 
+The chosen page based on LIFO algorithm is 99 
+The page is in HD, swap the page from SSD. The randomly chosen page is 99 
+Page created 128 
+The chosen page based on LIFO algorithm is 24 
+The chosen page based on LIFO algorithm is 99 
+The page is in HD, swap the page from SSD. The randomly chosen page is 99 
+Page created 129 
+Changing the value of the page in the RAM 0 
+The value in the RAM has been changed to 0 
+Changing the value of the page in the RAM 1 
+The value in the RAM has been changed to 2 
+Changing the value of the page in the RAM 2 
+The value in the RAM has been changed to 4 
+Changing the value of the page in the RAM 3 
+The value in the RAM has been changed to 6 
+Changing the value of the page in the RAM 4 
+The value in the RAM has been changed to 8 
+Changing the value of the page in the RAM 5 
+The value in the RAM has been changed to 10 
+Changing the value of the page in the RAM 6 
+The value in the RAM has been changed to 12 
+Changing the value of the page in the RAM 7 
+The value in the RAM has been changed to 14 
+Changing the value of the page in the RAM 8 
+The value in the RAM has been changed to 16 
+Changing the value of the page in the RAM 9 
+The value in the RAM has been changed to 18 
+Changing the value of the page in the RAM 10 
+The value in the RAM has been changed to 20 
+Changing the value of the page in the RAM 11 
+The value in the RAM has been changed to 22 
+Changing the value of the page in the RAM 12 
+The value in the RAM has been changed to 24 
+Changing the value of the page in the RAM 13 
+The value in the RAM has been changed to 26 
+Changing the value of the page in the RAM 14 
+The value in the RAM has been changed to 28 
+Changing the value of the page in the RAM 15 
+The value in the RAM has been changed to 30 
+Changing the value of the page in the RAM 16 
+The value in the RAM has been changed to 32 
+Changing the value of the page in the RAM 17 
+The value in the RAM has been changed to 34 
+Changing the value of the page in the RAM 18 
+The value in the RAM has been changed to 36 
+Changing the value of the page in the RAM 19 
+The value in the RAM has been changed to 38 
+Changing the value of the page in the RAM 20 
+The value in the RAM has been changed to 40 
+Changing the value of the page in the RAM 21 
+The value in the RAM has been changed to 42 
+Changing the value of the page in the RAM 22 
+The value in the RAM has been changed to 44 
+Changing the value of the page in the RAM 23 
+The value in the RAM has been changed to 46 
+The page is in SSD, swap it from the RAM 0 
+The page is in SSD, swap it from the RAM 1 
+The page is in SSD, swap it from the RAM 2 
+The page is in SSD, swap it from the RAM 3 
+The page is in SSD, swap it from the RAM 4 
+The page is in SSD, swap it from the RAM 5 
+The page is in SSD, swap it from the RAM 6 
+The page is in SSD, swap it from the RAM 7 
+The page is in SSD, swap it from the RAM 8 
+The page is in SSD, swap it from the RAM 9 
+The page is in SSD, swap it from the RAM 10 
+The page is in SSD, swap it from the RAM 11 
+The page is in SSD, swap it from the RAM 12 
+The page is in SSD, swap it from the RAM 13 
+The page is in SSD, swap it from the RAM 14 
+The page is in SSD, swap it from the RAM 15 
+The page is in SSD, swap it from the RAM 16 
+The page is in SSD, swap it from the RAM 17 
+The page is in SSD, swap it from the RAM 18 
+The page is in SSD, swap it from the RAM 19 
+The page is in SSD, swap it from the RAM 20 
+The page is in SSD, swap it from the RAM 21 
+The page is in SSD, swap it from the RAM 22 
+The page is in SSD, swap it from the RAM 23 
+The page is in SSD, swap it from the RAM 24 
+The page is in SSD, swap it from the RAM 25 
+The page is in SSD, swap it from the RAM 26 
+The page is in SSD, swap it from the RAM 27 
+The page is in SSD, swap it from the RAM 28 
+The page is in SSD, swap it from the RAM 29 
+The page is in SSD, swap it from the RAM 30 
+The page is in SSD, swap it from the RAM 31 
+The page is in SSD, swap it from the RAM 32 
+The page is in SSD, swap it from the RAM 33 
+The page is in SSD, swap it from the RAM 34 
+The page is in SSD, swap it from the RAM 35 
+The page is in SSD, swap it from the RAM 36 
+The page is in SSD, swap it from the RAM 37 
+The page is in SSD, swap it from the RAM 38 
+The page is in SSD, swap it from the RAM 39 
+The page is in SSD, swap it from the RAM 40 
+The page is in SSD, swap it from the RAM 41 
+The page is in SSD, swap it from the RAM 42 
+The page is in SSD, swap it from the RAM 43 
+The page is in SSD, swap it from the RAM 44 
+The page is in SSD, swap it from the RAM 45 
+The page is in SSD, swap it from the RAM 46 
+The page is in SSD, swap it from the RAM 47 
+The page is in SSD, swap it from the RAM 48 
+The page is in SSD, swap it from the RAM 49 
+The page is in SSD, swap it from the RAM 50 
+The page is in SSD, swap it from the RAM 51 
+The page is in SSD, swap it from the RAM 52 
+The page is in SSD, swap it from the RAM 53 
+The page is in SSD, swap it from the RAM 54 
+The page is in SSD, swap it from the RAM 55 
+The page is in SSD, swap it from the RAM 56 
+The page is in SSD, swap it from the RAM 57 
+The page is in SSD, swap it from the RAM 58 
+The page is in SSD, swap it from the RAM 59 
+The page is in SSD, swap it from the RAM 60 
+The page is in SSD, swap it from the RAM 61 
+The page is in SSD, swap it from the RAM 62 
+The page is in SSD, swap it from the RAM 63 
+The page is in SSD, swap it from the RAM 64 
+The page is in SSD, swap it from the RAM 65 
+The page is in SSD, swap it from the RAM 66 
+The page is in SSD, swap it from the RAM 67 
+The page is in SSD, swap it from the RAM 68 
+The page is in SSD, swap it from the RAM 69 
+The page is in SSD, swap it from the RAM 70 
+The page is in SSD, swap it from the RAM 71 
+The page is in SSD, swap it from the RAM 72 
+The page is in SSD, swap it from the RAM 73 
+The page is in SSD, swap it from the RAM 74 
+The page is in SSD, swap it from the RAM 75 
+The page is in SSD, swap it from the RAM 76 
+The page is in SSD, swap it from the RAM 77 
+The page is in SSD, swap it from the RAM 78 
+The page is in SSD, swap it from the RAM 79 
+The page is in SSD, swap it from the RAM 80 
+The page is in SSD, swap it from the RAM 81 
+The page is in SSD, swap it from the RAM 82 
+The page is in SSD, swap it from the RAM 83 
+The page is in SSD, swap it from the RAM 84 
+The page is in SSD, swap it from the RAM 85 
+The page is in SSD, swap it from the RAM 86 
+The page is in SSD, swap it from the RAM 87 
+The page is in SSD, swap it from the RAM 88 
+The page is in SSD, swap it from the RAM 89 
+The page is in SSD, swap it from the RAM 90 
+The page is in SSD, swap it from the RAM 91 
+The page is in SSD, swap it from the RAM 92 
+The page is in SSD, swap it from the RAM 93 
+The page is in SSD, swap it from the RAM 94 
+The page is in SSD, swap it from the RAM 95 
+The page is in SSD, swap it from the RAM 96 
+The page is in SSD, swap it from the RAM 97 
+The page is in SSD, swap it from the RAM 98 
+The page is in HD, swap it from the SSD 0 
+The value was stored in SSD which was in HD 
+The page is in SSD, swap it from the RAM 0 
+The page is in HD, swap it from the SSD 1 
+The value was stored in SSD which was in HD 
+The page is in SSD, swap it from the RAM 0 
+The page is in HD, swap it from the SSD 2 
+The value was stored in SSD which was in HD 
+The page is in SSD, swap it from the RAM 0 
+The page is in HD, swap it from the SSD 3 
+The value was stored in SSD which was in HD 
+The page is in SSD, swap it from the RAM 0 
+The page is in HD, swap it from the SSD 4 
+The value was stored in SSD which was in HD 
+The page is in SSD, swap it from the RAM 0 
+The page is in SSD, swap it from the RAM 99 
+Changing the value of the page in the RAM 24 
+The value in the RAM has been changed to 258 
+
+
+
+ testMethod2() took 48812
