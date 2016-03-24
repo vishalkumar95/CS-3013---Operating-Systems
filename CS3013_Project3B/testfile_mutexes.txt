@@ -1,0 +1,47 @@
+initializing
+[Plane Arriving] : Plane 0 has arrived into the airspace.
+   Fuel = 52
+[Plane Landing] : Plane 0 is beginning to land on runway 0
+   Fuel = 52
+[Plane Landing] : Plane 0 has landed on runway 0
+   Fuel = 50
+[Plane Arriving] : Plane 1 has arrived into the airspace.
+   Fuel = 22
+[Plane Landing] : Plane 1 is beginning to land on runway 1
+   Fuel = 22
+[Plane Landing] : Plane 0 has cleared the runway 0
+   Fuel = 50
+[Plane Landing] : Plane 1 has landed on runway 1
+   Fuel = 19
+[Plane Arriving] : Plane 3 has arrived into the airspace.
+   Fuel = 94
+[Plane Arriving] : Plane 3 has declared an emergency state 
+[Emergency plane] : Plane 3 is beginning to land on runway 0
+   Fuel = 94
+[Plane Arriving] : Plane 2 has arrived into the airspace.
+   Fuel = 15
+[Plane Arriving] : Plane 4 has arrived into the airspace.
+   Fuel = 42
+[Emergency plane] : Plane 3 has landed on runway 0
+   Fuel = 92
+[Plane Arriving] : Plane 6 has arrived into the airspace.
+   Fuel = 64
+[Plane Arriving] : Plane 5 has arrived into the airspace.
+   Fuel = 43
+[Plane Arriving] : Plane 5 has declared an emergency state 
+[Emergency plane] : Plane 5 is beginning to land on runway 2
+   Fuel = 43
+[Emergency plane] : Plane 5 has landed on runway 2
+   Fuel = 41
+[Plane Arriving] : Plane 8 has arrived into the airspace.
+   Fuel = 66
+[Plane Arriving] : Plane 7 has arrived into the airspace.
+   Fuel = 43
+[Plane Arriving] : Plane 9 has arrived into the airspace.
+   Fuel = 64
+[Plane Arriving] : Plane 9 has declared an emergency state 
+[Emergency plane] : Plane 5 has cleared the runway 2
+   Fuel = 41
+[Emergency plane] : Plane 9 is beginning to land on runway 2
+   Fuel = 62
+[Plane crash] : Plane 2 has run out of fuel and crashed

@@ -1,0 +1,7 @@
+// Answers to the Questions
+
+1) How can you ensure fairness? How is fairness affected by the amount of remaining fuel in each plane?
+
+Answer: There are two types of situations involved. One when we have emergency situation and one when we have normal planes arriving. When there is emergency situation, we give that plane the top priority and block all other planes. In the normal planes situation, we do the priority based off on the fuel left. Fairnes would be when we land the planes in the order they arrive. To ensure fairness, we try to land the plane which has least fuel left to avoid crashing. For example, if there are 4 planes in the airspace and just one runway. Then, we try to land the plane with the least fuel to avoid crashing. Hence, to ensure fairness, we prioirtize the planes based off on the fuel except the emergency situation.
+
+2) Answer: When an emergency landing arrives, we block all other planes from landing and give the top priority to the emergency plane. The emergency plane is allowed to land first and then the other planes are unblocked. Yes, since emergency planes block other planes, the fuel depletion is still going on. If a particular plane runs out of fuel, the plane will crash. If there are tow emergency planes at the same time, the recent one is landed first and the older one is blocked. That plan might run out of fuel and crash as well.
